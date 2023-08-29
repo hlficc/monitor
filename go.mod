@@ -1,4 +1,4 @@
-module monitor
+module github.com/hlficc/monitor
 
 go 1.15
 
